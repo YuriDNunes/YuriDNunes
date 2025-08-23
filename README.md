@@ -8,13 +8,6 @@
 
 ###
 
-<h3>📫 Let's connect</h3>
-
-<ul>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/yuridnunes">https://www.linkedin.com/in/yuridnunes</a></li>
-    <li>Email: <a href="mailto:ndcyuri@gmail.com">ndcyuri@gmail.com</a></li>
-</ul>
-
 ##
 
 <h3>🛠️ Technologies and Tools</h3>
@@ -43,6 +36,13 @@
 </div>
 
 ###
+
+<h3>📫 Let's connect</h3>
+
+<ul>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/yuridnunes">https://www.linkedin.com/in/yuridnunes</a></li>
+    <li>Email: <a href="mailto:ndcyuri@gmail.com">ndcyuri@gmail.com</a></li>
+</ul>
 
 ###
 
