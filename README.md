@@ -1,61 +1,29 @@
-<h2 align="left">Hey there! I'm Yuri Nunes</h2>
+# Hi, I'm Yuri Nunes! 👋
 
-### 
+> ☕ Software Developer | Java & Spring Ecosystem
 
-<h3 align="left">🎓 Education</h3>
+I am a developer focused on **Backend Engineering** and **Software Architecture**, committed to building scalable, secure, and high-performance applications.
 
-<ul align="left"><li>🎓 Systems Analysis and Development (IFCE)</li></ul>
+My development philosophy centers on writing **clean, maintainable code** and designing robust APIs that solve real-world problems. I combine academic foundations in Systems Analysis with practical expertise in the Spring ecosystem to deliver efficient software solutions.
 
-###
+### 🎯 Core Competencies
+* **Backend Development:** RESTful API design, Layered Architecture, and Business Logic implementation.
+* **Security:** Authentication & Authorization implementation (Spring Security, JWT, RBAC).
+* **Data Management:** Database modeling, normalization, and SQL optimization.
 
-##
+### 🛠️ Technology Stack
+**Backend:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3>🛠️ Technologies and Tools</h3>
+**Frontend & Tools:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h4>🖥️ Languages & Frameworks</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+### ⚡ Professional Values
+* **Continuous Improvement:** I believe in the constant refinement of technical skills and discipline.
+* **Problem Solving:** A pragmatic approach to debugging and system design.
+* **Collaboration:** Experienced in working within agile contexts and contributing to team goals.
 
-###
-<h4>☁️ Databases & Cloud</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-</div>
-
-###
-<h4>🖥️ Dev & Testing</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-###
-
-##
-
-<h3>📫 Let's connect</h3>
-
-<ul>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/yuridnunes">https://www.linkedin.com/in/yuridnunes</a></li>
-    <li>Email: <a href="mailto:ndcyuri@gmail.com">ndcyuri@gmail.com</a></li>
-</ul>
-
-###
-
-##
-
-<h3>📊 GitHub Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriDNunes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriDNunes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[LinkedIn](https://www.linkedin.com/in/yuridnunes/) • [Email](mailto:ndcyuri@gmail.com)
